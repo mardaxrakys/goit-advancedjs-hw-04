@@ -1,7 +1,8 @@
 body {
-  font-family: 'Roboto', sans-serif;
-  color: var(--cl-text-slate);
-  background-color: #94a5d0;
+  font-family: 'Montserrat', sans-serif;
+  background-color: #fff;
+  color: #333;
+  padding: 20px;
 }
 
 .container {
